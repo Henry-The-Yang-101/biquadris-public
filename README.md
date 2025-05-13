@@ -17,8 +17,8 @@ The game supports two-player competitive gameplay with a console-based view (Con
     <td><img src="xwindow_gameplay.png" alt="XWindow Gameplay" width="400"/></td>
   </tr>
   <tr>
-    <td><em>Figure: Console-based gameplay view (ConsoleView)</em></td>
-    <td><em>Figure: Graphical gameplay view (GraphicsView)</em></td>
+    <td><em>Console-based gameplay view (ConsoleView)</em></td>
+    <td><em>GUI gameplay view (GraphicsView)</em></td>
   </tr>
 </table>
 
