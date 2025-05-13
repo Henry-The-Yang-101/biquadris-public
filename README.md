@@ -1,14 +1,17 @@
-# Biquadris: 1v1 Tetris Game
+# BiQuadris: 1v1 Tetris Game
 
 ![Class UML Diagram](classumldiagram.png)
 
 
 ## Overview
 
-Biquadris is a 1v1 Tetris-inspired game developed in C++ with Object-Oriented Programming (OOP) principles. The game supports two-player competitive gameplay with a console-based view (ConsoleView) and an optional graphical view (GraphicsView) using the Xwindow library. 
+Biquadris is a 1v1 Tetris variant developed in C++ with XWindow graphics, leveraging good Object-Oriented Programming (OOP) design principles. This project served as the final assignment for my University of Waterloo CS course (CS 246), where I achieved a final grade of 110%.
 
-![Terminal Gameplay](terminal_gameplay.png)
-![XWindow Gameplay](xwindow_gameplay.png)
+This repo provides a high level overview of the project; the full codebase is not provided in this repo due UWaterloo's academic integrity policy. 
+
+The game supports two-player competitive gameplay with a console-based view (ConsoleView) and an optional GUI view (GraphicsView) using the Xwindow library. 
+
+![Terminal Gameplay](terminal_gameplay.png) ![XWindow Gameplay](xwindow_gameplay.png)
 
 The game code is designed with a focus on modularity, maintainability, and flexibility.
 
