@@ -1,7 +1,7 @@
 # BiQuadris: 1v1 Tetris Game
 
 ![Class UML Diagram](classumldiagram.png)
-
+*UML Diagram illustrating the class structure of Biquadris, showcasing the modular design and use of design patterns.*
 
 ## Overview
 
