@@ -11,7 +11,16 @@ This repo provides a high level overview of the project; the full codebase is no
 
 The game supports two-player competitive gameplay with a console-based view (ConsoleView) and an optional GUI view (GraphicsView) using the Xwindow library. 
 
-![Terminal Gameplay](terminal_gameplay.png) ![XWindow Gameplay](xwindow_gameplay.png)
+<table>
+  <tr>
+    <td><img src="terminal_gameplay.png" alt="Terminal Gameplay" width="400"/></td>
+    <td><img src="xwindow_gameplay.png" alt="XWindow Gameplay" width="400"/></td>
+  </tr>
+  <tr>
+    <td><em>Figure: Console-based gameplay view (ConsoleView)</em></td>
+    <td><em>Figure: Graphical gameplay view (GraphicsView)</em></td>
+  </tr>
+</table>
 
 The game code is designed with a focus on modularity, maintainability, and flexibility.
 
